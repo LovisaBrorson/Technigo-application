@@ -1,0 +1,28 @@
+body{
+  background-color: rgb(246, 248, 255);
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+margin: 5%;
+line-height: 1,6em;
+
+}
+h1 {
+  color: #ff8623;
+}
+h2{
+  color: #0ca528;
+}
+h3{
+  color: #604efa;
+  
+}
+a{
+ 
+  color: #604efa;
+}
+.Punktlista {
+ 
+  color: #604efa;
+  border: 3px dotted #ff8623;
+  width: 55%;
+}6
